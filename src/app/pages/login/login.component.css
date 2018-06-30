@@ -1,0 +1,48 @@
+hr{
+    color: #fff;
+    border-color: #fff;
+}
+.contenedor_login{
+    
+    text-align: center;
+    align-self: center;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 2%); 
+}
+@media screen and (min-height: 500px) {
+    .contenedor_login {
+        top: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    
+    
+}
+.bordes-boton{
+    border-radius: 86px 90px 90px 90px;
+}
+.btn-tranparente{
+    color: #fff;
+    background-color: transparent;
+    border-color: #fff;
+    width: 70%;
+}
+.btn-idioma{
+    width: 100%;
+    color: #ccc;
+    font-size: 14px;
+}
+.btn-facebook{
+    margin-top: 5px;
+    color: #fff;
+    background-color: #4867aa;
+    border-color: #fff;
+    width: 70%;
+}
+.link-ayuda{
+    color: #fff; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+

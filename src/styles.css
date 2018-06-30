@@ -1,0 +1,5 @@
+body{
+    background: linear-gradient(45deg, #FBAE17 0%, #679418 36.32%, #88A80D 71.27%, #ECAC17 100%);
+    background-attachment: fixed;
+    background-repeat: no-repeat;   
+}
